@@ -3,12 +3,10 @@
 
 
 
-An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning and Computer Vision capabilities using simple
+An open-source python library built to empower developers to build applications and systems with self-contained Deep Learning capabilities using simple
  and few lines of code.
  
- If you will like to back this project, kindly visit the <strong>Patreon</strong> page by clicking the badge below.
- 
- <span class="badge-patreon"><a href="https://patreon.com/OlafenwaMoses" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span> 
+  
  
 ## ---------------------------------------------------
 ## SmartBrain will switch to PyTorch backend .
