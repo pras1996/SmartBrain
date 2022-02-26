@@ -12,7 +12,7 @@ An open-source python library built to empower developers to build applications 
 ## SmartBrain will switch to PyTorch backend .
 ## ---------------------------------------------------
  
-![](logo1.png)
+![](logo2.png)
 
 An **DeepQuest AI** (A Brand of AI Commons Global Limited)  project [deepquestai.com](https://deepquestai.com).
 
